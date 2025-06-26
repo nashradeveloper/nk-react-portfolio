@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'general Sans',sans-serif;
+    width: 100vw;
+    background-color: '#dfdff0';
+    overflow-x: hidden;
+}
